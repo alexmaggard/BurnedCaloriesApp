@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BurnedCaloriesApp</string>
+    <string name="weight">Weight:</string>
+    <string name="miles_ran">Miles Ran:</string>
+    <string name="calories_burned">Calories Burned:</string>
+    <string name="height">Height:</string>
+    <string name="bmi">BMI</string>
+    <string name="name">Name</string>
+    <string name="_0_mi">0 mi</string>
+    <string name="_0">0</string>
+    <string name="none">none</string>
+</resources>
